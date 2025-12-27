@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on T Fong</title>
+    <link>//localhost:1313/tags/animation/</link>
+    <description>Recent content in Animation on T Fong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tfong@seas.upenn.edu (T Fong)</managingEditor>
+    <webMaster>tfong@seas.upenn.edu (T Fong)</webMaster>
+    <copyright>© Thomas Fong 2025</copyright>
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vortex: Animated 2D/3D Music Video</title>
+      <link>//localhost:1313/vortex/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/vortex/</guid>
+      <description>My cut from a mixed 2D/3D music video adapting Vortex.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/vortex/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

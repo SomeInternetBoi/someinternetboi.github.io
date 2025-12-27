@@ -13,6 +13,11 @@
 [[main]]
   name = "Resume"
   url = "https://drive.google.com/file/d/1XtfVFoghdr86eZsJ91f_s3Se3bAcgbyG/view?usp=sharing"
+  weight = 5
+
+[[main]]
+  name = "Reels"
+  pageRef = "reels"
   weight = 10
 
 [[main]]
@@ -48,10 +53,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --

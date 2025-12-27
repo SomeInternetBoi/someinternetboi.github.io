@@ -12,17 +12,17 @@ title = "T Fong"
    logo = "img/logo.png"
    secondaryLogo = "img/logo.png"
    description = "The portfolio of T Fong"
-   copyright = "Copy, _right?_ :thinking_face:"
+   copyright = "© Thomas Fong 2025"
 
 [params.author]
    name = "T Fong"
    email = "tfong@seas.upenn.edu"
-   image = "https://avatars.githubusercontent.com/u/145229224?s=400&u=d4d3dd208f28613411b1f2a01aed9e7d83b154a8&v=4"
+   image = "https://avatars.githubusercontent.com/u/145229224?s=400&u=84aa2f823979607dc989b017fe3e7cdc98074daa&v=4"
    imageQuality = 96
    headline = "CS, CG @ UPenn"
 #   bio = "A little bit about you"
    links = [
-#     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:tfong@seas.upenn.edu" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
