@@ -2,7 +2,7 @@
 title: "Mini-Minecraft"
 date: 2025-12-08
 draft: false
-summary: "My cut from a mixed 2D/3D music video adapting Vortex."
+summary: "Minecraft clone made in C++, OpenGL, GLSL"
 tags: ["technical", "C++", "OpenGL", "GLSL", "Minecraft", "real-time"]
 type: ["technical", "post"]
 ---
