@@ -16,6 +16,8 @@ Every Spring semester, the University of Pennsylvania's student chapter of ACM S
 {{<youtubeLite id="Xnh7IXB8yzQ" label="My cut from the Vortex MV">}}
 
 # Process
+
+{{<youtubeLite id="HXFj3JCruOw" label="Behind the scenes process">}}
 I did the procedural gemstone effect primarily in Blender, using DaVinci Resolve for post-processing (chromatic aberration and bloom).
 
 The gem pattern was a procedural material made using Blender's Shader Editor, mapped to a funnel-shaped object, causing the noise to swirl about the center. It was then animated by setting the noises's texture to a rotating invisible empty object.

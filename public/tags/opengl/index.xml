@@ -28,7 +28,17 @@
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/mesh_editor/</guid>
       <description>My cut from a mixed 2D/3D music video adapting Vortex.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/mesh_editor/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shader Viewer</title>
+      <link>//localhost:1313/shader_viewer/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/shader_viewer/</guid>
+      <description>A vertex and fragment shader viewer implementing various materials and post processing effects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/shader_viewer/featured.png" />
     </item>
     
   </channel>

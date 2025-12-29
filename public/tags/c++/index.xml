@@ -28,7 +28,37 @@
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/mesh_editor/</guid>
       <description>My cut from a mixed 2D/3D music video adapting Vortex.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/mesh_editor/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shader Viewer</title>
+      <link>//localhost:1313/shader_viewer/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/shader_viewer/</guid>
+      <description>A vertex and fragment shader viewer implementing various materials and post processing effects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/shader_viewer/featured.png" />
+    </item>
+    
+    <item>
+      <title>Curve Editor</title>
+      <link>//localhost:1313/curve_editor/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/curve_editor/</guid>
+      <description>A Curve Editor implementing key interpolation via Bezier curves, Catmull-Rom splines, Hermite splines, and rotational interpolation via quaternion Catmull-Rom splines.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/curve_editor/featured.png" />
+    </item>
+    
+    <item>
+      <title>CPU Rasterizer</title>
+      <link>//localhost:1313/cpu_rasterizer/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/cpu_rasterizer/</guid>
+      <description>A C++ CPU Rasterizer with Lambertian reflections, wireframe rendering, and FSAA.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/cpu_rasterizer/featured.png" />
     </item>
     
   </channel>

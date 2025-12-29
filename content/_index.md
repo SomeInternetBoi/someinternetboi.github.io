@@ -1,2 +1,8 @@
 ## Hello there!
 My name is Thomas Fong, though I also go by T! I'm a junior (third-year) in the [**University of Pennsylvania's School of Engineering and Applied Sciences**](https://www.seas.upenn.edu/), working towards an undergraduate degree in [**Digital Media Design**](https://cg.cis.upenn.edu/dmd.html) and a Masters' in [**Computer Graphics and Game Technology**](https://cg.cis.upenn.edu/cggt.html). Both programs are at the intersection of computer science, graphics programming, and art.
+
+## Technical Reel
+{{<youtubeLite id="ZUBzuyZMZXI" label="Technical Reel">}}
+
+## Art Reel
+{{<youtubeLite id="CjntUeNvE_4" label="Art Reel">}}

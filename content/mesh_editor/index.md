@@ -10,6 +10,7 @@ type: ["technical", "post"]
 
 # About
 For [**Introduction to Computer Graphics**](https://www.cis.upenn.edu/~cis4600/current/index.html), I worked on a light mesh editor that implemented the half-edge mesh data structure.
+{{<youtubeLite id="zO7bD9FgBzg" label="Demo">}}
 
 # Features
 ### Mesh Loading From OBJ Files
