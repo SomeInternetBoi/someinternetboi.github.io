@@ -15,9 +15,11 @@ For **Computer Animation Mathematics**, I implemented key interpolation via cubi
 
 # Features
 ### Catmull-Rom Splines
-I implemented various methods of computing Catmull-Rom splines (1st-order continuous), including:
+I implemented various methods of computing Catmull-Rom splines for key points (1st-order continuous), including:
 * **Bernstein Polynomials**
 * **DeCasteljau's Algorithm**
 * **Matrix Method**
 ### Hermite Splines
-###
+I implemented computing Hermite splines (2nd-order continuous) using matrices.
+### Rotational Interpolation
+I implemented rotational interpolation through Euler angle and quaternion interpolation, using spherical linear interpolation (slerp) with DeCasteljau's algorithm to create cubic quaternion Catmull-Rom splines.
