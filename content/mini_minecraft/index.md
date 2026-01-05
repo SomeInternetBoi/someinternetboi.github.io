@@ -11,7 +11,7 @@ type: ["technical", "post"]
 # About
 For the final project in [**Introduction to Computer Graphics**](https://www.cis.upenn.edu/~cis4600/current/index.html), I worked in a group of 3 on a Mini-Minecraft clone in C++, OpenGL, and GLSL.
 
-{{<youtubeLite id="h5Gsn6jnbwY" label="Our Milestone 3 showcase video">}}
+{{<youtubeLite id="6gKod2r6G8g" label="My contributions">}}
 
 # Features
 ### Biome-Based Terrain Generation

@@ -254,7 +254,7 @@
     "keywords": ["technical","C++","real-time"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "69"
+    "wordCount": "107"
   }]
   </script>
 
@@ -805,7 +805,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-10-01T00:00:00&#43;00:00">1 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>69 words</span>
+      <time datetime="2025-10-01T00:00:00&#43;00:00">1 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>107 words</span>
     
 
     
@@ -869,7 +869,7 @@
       <ul>
         <li><a href="#catmull-rom-splines">Catmull-Rom Splines</a></li>
         <li><a href="#hermite-splines">Hermite Splines</a></li>
-        <li></li>
+        <li><a href="#rotational-interpolation">Rotational Interpolation</a></li>
       </ul>
     </li>
   </ul>
@@ -889,7 +889,7 @@
       <ul>
         <li><a href="#catmull-rom-splines">Catmull-Rom Splines</a></li>
         <li><a href="#hermite-splines">Hermite Splines</a></li>
-        <li></li>
+        <li><a href="#rotational-interpolation">Rotational Interpolation</a></li>
       </ul>
     </li>
   </ul>
@@ -943,7 +943,7 @@
     </span>
     
 </h3>
-<p>I implemented various methods of computing Catmull-Rom splines (1st-order continuous), including:</p>
+<p>I implemented various methods of computing Catmull-Rom splines for key points (1st-order continuous), including:</p>
 <ul>
 <li><strong>Bernstein Polynomials</strong></li>
 <li><strong>DeCasteljau&rsquo;s Algorithm</strong></li>
@@ -959,16 +959,18 @@
     </span>
     
 </h3>
+<p>I implemented computing Hermite splines (2nd-order continuous) using matrices.</p>
 
-<h3 class="relative group">
-    <div id="" class="anchor"></div>
+<h3 class="relative group">Rotational Interpolation
+    <div id="rotational-interpolation" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#rotational-interpolation" aria-label="Anchor">#</a>
     </span>
     
 </h3>
+<p>I implemented rotational interpolation through Euler angle and quaternion interpolation, using spherical linear interpolation (slerp) with DeCasteljau&rsquo;s algorithm to create cubic quaternion Catmull-Rom splines.</p>
 
           
           
