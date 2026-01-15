@@ -72,19 +72,9 @@
     </item>
     
     <item>
-      <title>2D</title>
-      <link>//localhost:1313/tags/2d/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <author>tfong@seas.upenn.edu (T Fong)</author>
-      <guid>//localhost:1313/tags/2d/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>3D</title>
       <link>//localhost:1313/tags/3d/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/tags/3d/</guid>
       <description></description>
@@ -92,9 +82,19 @@
     </item>
     
     <item>
+      <title>3D Modeling</title>
+      <link>//localhost:1313/tags/3d-modeling/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/3d-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Animation</title>
       <link>//localhost:1313/tags/animation/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/tags/animation/</guid>
       <description></description>
@@ -104,9 +104,59 @@
     <item>
       <title>Art</title>
       <link>//localhost:1313/tags/art/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/tags/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Character Design</title>
+      <link>//localhost:1313/tags/character-design/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/character-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Character Modeling</title>
+      <link>//localhost:1313/tags/character-modeling/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/character-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging</title>
+      <link>//localhost:1313/tags/rigging/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/rigging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Texture</title>
+      <link>//localhost:1313/tags/texture/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/texture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2D</title>
+      <link>//localhost:1313/tags/2d/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <author>tfong@seas.upenn.edu (T Fong)</author>
+      <guid>//localhost:1313/tags/2d/</guid>
       <description></description>
       
     </item>
