@@ -15,12 +15,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/lilith_anims/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/mesh_editor/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,8 +39,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/live2d_model/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/vortex/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/lilith_anims/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -18,7 +18,7 @@
       <author>tfong@seas.upenn.edu (T Fong)</author>
       <guid>//localhost:1313/lilith_anims/</guid>
       <description>Lilith, a playable character in a 3D fighting game</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/lilith_anims/featured.png" />
     </item>
     
   </channel>
