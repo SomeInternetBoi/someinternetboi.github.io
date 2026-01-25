@@ -1,5 +1,5 @@
 ---
-title: "Lilith - Playable Character"
+title: "Lilith: Fighting Game Character"
 date: 2025-11-08
 draft: false
 summary: "Lilith, a playable character in a 3D fighting game"
